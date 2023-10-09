@@ -1,6 +1,5 @@
 # Minio2Milvus-BackEnd
 
----
 
 ## 介绍
 
@@ -12,7 +11,6 @@ MinIO's High Performance Object Storage is Open Source, Amazon S3 compatible, Ku
 
 ![Streamlit UI](ui.JPG)
 
----
 
 ## 开发部署
 
@@ -22,7 +20,6 @@ MinIO's High Performance Object Storage is Open Source, Amazon S3 compatible, Ku
 
 3. 去HuggingFace下载BgeEmbeddings模型: BAAI/bge-large-zh
 
----
 
 ## 项目交流
 
