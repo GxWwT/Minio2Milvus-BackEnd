@@ -23,6 +23,6 @@ MinIO's High Performance Object Storage is Open Source, Amazon S3 compatible, Ku
 
 ## 项目交流
 
-微信： wanggx130
+WeChat: wanggx130
 
 Email: wangguoxu0543@gmail.com
